@@ -15,7 +15,7 @@ vue-cli のインストールが必要です。
 コマンドライン(ターミナル or コマンドプロンプト)から下記のコマンドを打ってインストールします。
 
 ```
-yarn global add @vue/cli @vue/cli-init
+npm install -g @vue/cli @vue/cli-init
 ```
 
 ## Step.1 - Nuxt.js プロジェクトを立ち上げる
