@@ -31,7 +31,7 @@ $ vue init nuxt-community/starter-template sample-vue-app -y
 
 ```
 $ cd sample-nuxt-app
-$ yarn
+$ npm install
 ```
 
 ## Step.2 - ローカルサーバーを立ち上げる
@@ -41,7 +41,7 @@ $ yarn
 Nuxt.js にはローカルサーバーを立ち上げるためのコマンドが用意されています。
 
 ```
-$ yarn dev
+$ npm run dev
 ```
 
 しばらく待ってサーバーが立ち上がったら、 http://localhost:3000 にアクセスしてみましょう。
