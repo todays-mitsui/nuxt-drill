@@ -77,7 +77,7 @@ axios を使って Qiita API からデータを取得します。
 まずは axios のインストールをしましょう。
 
 ```
-$ yarn add @nuxtjs/axios
+$ npm install @nuxtjs/axios
 ```
 
 インストールが完了したら nuxt.config.js に設定を追記します。
