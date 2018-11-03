@@ -24,7 +24,7 @@ npm install -g @vue/cli @vue/cli-init
 コマンドラインから以下のコマンドを打って、プロジェクトフォルダを作成します。
 
 ```
-$ vue init nuxt-community/starter-template sample-vue-app -y
+$ vue init nuxt-community/starter-template sample-vue-app
 ```
 
 フォルダが作成されたら、カレントディレクトリをフォルダ内に移動して依存ライブラリをインストールしましょう。
