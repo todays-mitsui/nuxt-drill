@@ -1,23 +1,19 @@
-# sample-nuxt-app
+# Nuxt.js Drill
 
-> Nuxt.js project
+20181103 JavaScript つまみ食いハンズオン用
 
-## Build Setup
+## 準備
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+### Node インストール
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+Node.js (npm) のインストールが必要です。
+インストールされていない人は [公式サイト](https://nodejs.org/ja/) からダウンロードしてインストールしてください。
 
-# build for production and launch server
-$ npm run build
-$ npm start
+### vue-cli インストール
 
-# generate static project
-$ npm run generate
+vue-cli のインストールが必要です。
+コマンドライン(ターミナル or コマンドプロンプト)から下記のコマンドを打ってインストールします。
+
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
+yarn global add @vue/cli @vue/cli-init
+```
